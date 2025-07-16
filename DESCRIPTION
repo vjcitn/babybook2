@@ -1,16 +1,13 @@
 Package: babybook2
-Title: What the Package Does (One Line, Title Case)
+Title: Minimal book
 Description: 
-    This sentence is a placeholder. It should be changed by the author of 
-    the package to describe the purpose of this BiocBook. 
-    It should be at least 3 sentences otherwise `BiocCheck` will complain.
+    Minimal book.
 Version: 0.98.0
 Date: `r date()`
 Authors@R: 
     person(
-        "First", "Last", , "first.last@example.com", 
-        role = c("aut", "cre"),
-        comment = c(ORCID = "YOUR-ORCID-ID")
+        "Vince", "Carey", , "stvjc@channing.harvard.edu"
+        role = c("aut", "cre"))
     )
 URL: https://github.com/vjcitn/babybook2
 BugReports: https://github.com/vjcitn/babybook2
