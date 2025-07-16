@@ -7,7 +7,7 @@ Date: `r date()`
 Authors@R: 
     person(
         "Vince", "Carey", , email="stvjc@channing.harvard.edu",
-        role = c("aut", "cre"))
+        role = c("aut", "cre")
     )
 URL: https://github.com/vjcitn/babybook2
 BugReports: https://github.com/vjcitn/babybook2
