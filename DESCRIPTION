@@ -6,7 +6,7 @@ Version: 0.98.0
 Date: `r date()`
 Authors@R: 
     person(
-        "Vince", "Carey", , "stvjc@channing.harvard.edu"
+        "Vince", "Carey", , email="stvjc@channing.harvard.edu",
         role = c("aut", "cre"))
     )
 URL: https://github.com/vjcitn/babybook2
